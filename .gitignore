@@ -1,0 +1,31 @@
+# Binary firmware
+*.bin
+*.elf
+*.hex
+
+# Python
+__pycache__/
+*.py[cod]
+*.py
+
+# Temp/scratch files
+tmp_*
+*.tmp
+
+# Disassembly dumps
+*_disasm*.txt
+*_dump*.txt
+verify_output.txt
+
+# IDE / editor
+.claude/
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Misc project files (not code)
+BOM_*.xlsx
+Netlist_*.tel

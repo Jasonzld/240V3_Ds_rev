@@ -1,0 +1,4 @@
+  File "<string>", line 24
+    if line == '\':
+               ^
+SyntaxError: unterminated string literal (detected at line 24)
